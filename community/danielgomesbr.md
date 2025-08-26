@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 Sobre mim
-- 👨‍💻 Amo criar projetos com **Python** e web (**HTML5 + CSS3**).
+- 👨‍💻 Gosto de criar projetos com **Python** e web (**HTML5 + CSS3**).
 - 🛠️ Versiono meu código com **Git** e **GitHub**.
-- 🧰 Trabalho no **VS Code** e também no **PyCharm**.
+- 🧰 Aprendo no **VS Code** e também no **PyCharm**.
 - 🎯 Em busca de aprender e compartilhar!
 
 ---
@@ -49,8 +49,7 @@
 
 <!--### 📌 Projetos em destaque
 - 🔗 [Projeto 1](https://github.com/danielgomesbr/danielgomesbr) — explique em 1 linha o que faz.
-- 🔗 [Projeto 2](https://github.com/<SEU_USUARIO_GITHUB>/<repo2>) — explique em 1 linha o que faz.
-- 🔗 [Projeto 3](https://github.com/<SEU_USUARIO_GITHUB>/<repo3>) — explique em 1 linha o que faz.-->
+- 🔗 [Projeto 2](https://github.com/danielgomesbr/<NOME_REPOSITÓRIO>) — explique em 1 linha o que faz.
 
 ---
 
@@ -61,8 +60,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielgomesbr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&border_radius=5"/>
 </div>
    
-
-
 ---
 
 ### 📫 Contato
